@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "calamity:black_opal_ore",
+    "calamity:black_opal_block",
+    "calamity:deepslate_black_opal_ore",
+    "calamity:netherrack_black_opal_ore",
+    "calamity:endstone_black_opal_ore"
+  ]
+}
